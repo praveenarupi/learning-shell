@@ -1,4 +1,4 @@
-## learning-shell
+## learning-shell scripting
 ### Here we learn Bash Shell Scripting
 # Topics of Shell Scripting
 1. SheBang & Comments
